@@ -4,7 +4,7 @@ A real-time machine learning spam detection tool designed to mimic a live social
 
 ## Demo
 
-<video src="./backend/assets/newsf.webm" controls="controls" muted="muted" width="100%"></video>
+![Spam Filter Dashboard](./backend/assets/sfilter.png)
 
 ## Tech Stack
 - **Model**: Custom Naive Bayes Classifier built from scratch in Python, featuring real-time in-memory inference and Laplace smoothing.
