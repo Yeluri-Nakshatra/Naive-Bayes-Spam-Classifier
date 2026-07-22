@@ -2,8 +2,6 @@
 
 A real-time machine learning spam detection tool designed to mimic a live social media feed. It processes incoming data, filters out spam, and visualizes the inference pipeline through a clean dashboard with live analytics.
 
-## Demo
-
 ![Spam Filter Dashboard](./backend/assets/sfilter.png)
 
 ## Tech Stack
