@@ -2,6 +2,10 @@
 
 A real-time machine learning spam detection tool designed to mimic a live social media feed. It processes incoming data, filters out spam, and visualizes the inference pipeline through a clean dashboard with live analytics.
 
+## Demo
+
+<video src="./backend/assets/newsf.webm" controls="controls" muted="muted" width="100%"></video>
+
 ## Tech Stack
 - **Model**: Custom Naive Bayes Classifier built from scratch in Python, featuring real-time in-memory inference and Laplace smoothing.
 - **Backend**: Starlette & SQLite for an ultra-fast, lightweight API (no heavy dependencies).
